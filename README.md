@@ -58,7 +58,6 @@
 An adverse drug reaction (ADR) is when a medication causes unexpected and unwanted effects in your body.The ADRForecast addresses the issue of adverse drug reactions (ADRs) in polypharmacy by predicting potential side effects. It uses a deep learning framework based on drug-induced gene expression signatures to enhance patient safety and drug therapy efficacy. The model is effective in predicting ADRs for unseen drug interactions, outperforming other methods. Additionally, it can predict ADRs for new compounds not used in training, contributing to improved accuracy and understanding of drug-induced gene expression signatures and drug interaction mechanisms.                                                                                                                                                                                                                                                               
 
 #### Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction,
-#### Model have an accuracy of 82%+.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
