@@ -143,7 +143,7 @@ ADR prediction model  is TensorFlow-based. For these, We used the Intel® Extens
 The following graphs illustrate the substantial performance improvements achieved by integrating Intel® oneAPI libraries and frameworks into our models:
 1. Comparing execution time of model training for adr_prediction model <br><br>
 <a href="https://github.com/lovelindhoni/adr_prediction.git">
-    <img src="https://ik.imagekit.io/lovelin/Figure_1.png?updatedAt=1710040314234" >
+    <img src="https://ik.imagekit.io/lovelin/Figure_1.png?updatedAt=1710048583447" >
 </a><br><br>
 
 By leveraging the power of Intel® oneAPI libraries and frameworks, our models achieves remarkable performance enhancements and optimized memory utilization across various disease prediction models. The seamless integration of oneDAL, oneDNN, oneDPL, and AI Kit contributes to faster training, efficient inference, and improved overall user experience.
