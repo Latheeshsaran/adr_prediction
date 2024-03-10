@@ -139,7 +139,7 @@ ADR prediction model  is TensorFlow-based. For these, We used the Intel® Extens
 
 ### Performance Comparison
 The following graphs illustrate the substantial performance improvements achieved by integrating Intel® oneAPI libraries and frameworks into our models:
-1. Comparing execution time of model training for Alzheimer's Disease Prediction<br><br>
+1. Comparing execution time of model training for adr_prediction model <br><br>
 <a href="https://github.com/lovelindhoni/adr_prediction.git">
     <img src="https://ik.imagekit.io/lovelin/Figure_1.png?updatedAt=1710040314234" >
 </a><br><br>
