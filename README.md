@@ -3,8 +3,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
+  <hgroup>
   <h1 align="center">ADR-FORECAST <br> PREDICTION OF ADVERSE DRUG REACTIONS</h1>
+  <p>By Team Hawkeye</p>
+  </hgroup>
 
   <p align="center">
     Welcome to our project!
